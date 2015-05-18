@@ -17,3 +17,6 @@
 1. Handicapping system allowing a large range of experience levels to compete
 1. Enjoyable to play year over year without rules changes (balanced roles without a dominant strategy)
 1. Elo style rating system for league play
+
+2. Provide enough support/simplicity that an experienced team could be up and running in <8 hours
+3. Have clear roles for drivetrain-only bots
